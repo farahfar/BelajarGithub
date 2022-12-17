@@ -2,7 +2,7 @@ import turtle
 t = turtle.Turtle()
 s = turtle.Screen()
 s.bgcolor("black")
-t.pencolor("white")
+t.pencolor("yellow")
 t.speed(0)
 
 for i in range (120):
